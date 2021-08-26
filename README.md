@@ -17,20 +17,27 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </div>
 
-<img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/>
-<img src="https://img.icons8.com/ios-filled/48/000000/django.png"/>
+<div>
+<img src="https://img.icons8.com/color/48/000000/flask.png"/>
+ <img src="https://img.icons8.com/color/48/000000/django.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+</div>
 
+<div> 
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/ios-filled/48/000000/console.png"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+</div>
 
+ 
 **Learning:**
 
+<div>
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</div>
 
 
 ## **Projects:**
