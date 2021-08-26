@@ -18,8 +18,8 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 </div>
 
 <div>
-<img src="https://img.icons8.com/color/48/000000/flask.png"/>
- <img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img  style="background-color:white;" src="https://img.icons8.com/color/48/000000/flask.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 </div>
