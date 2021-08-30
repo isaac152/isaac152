@@ -13,6 +13,35 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 ## **Languages and Tools :**
 
 <div>
+<img src="https://i.imgur.com/slImWDT.png"/>
+<img src="https://i.imgur.com/2eaiPIw.png"/>
+</div>
+
+<div>
+<img src="https://i.imgur.com/mOkibVI.png"/>
+<img src="https://i.imgur.com/HzJcoG3.png"/>
+<img src="https://i.imgur.com/dOtIOy6.png"/>
+<img src="https://i.imgur.com/OzgfDUi.png"/>
+</div>
+
+<div> 
+<img src="https://i.imgur.com/JBSC9XR.png"/>
+<img src="https://i.imgur.com/bvxJDZH.png"/>
+<img src="https://i.imgur.com/9MFL33F.png"/>
+</div>
+
+ 
+**Learning:**
+
+<div>
+<img src="https://i.imgur.com/BDa3I0m.png"/>
+<img src="https://i.imgur.com/moyvqFc.png"/>
+<img src="https://i.imgur.com/CMHB84G.png"/>
+</div>
+
+<!--
+
+<div>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </div>
@@ -38,7 +67,7 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
-
+-->
 
 ## **Projects:**
 
