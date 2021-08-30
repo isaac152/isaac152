@@ -13,7 +13,7 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 ## **Languages and Tools :**
 
 <div>
-<img src="https://i.imgur.com/slImWDT.png"/>
+<img src="https://i.imgur.com/EinrytZ.png"/>
 <img src="https://i.imgur.com/2eaiPIw.png"/>
 </div>
 
@@ -35,13 +35,16 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 
 <div>
 <img src="https://i.imgur.com/BDa3I0m.png"/>
-<img src="https://i.imgur.com/moyvqFc.png"/>
+<img src="https://i.imgur.com/Mfosbky.png"/>
 <img src="https://i.imgur.com/CMHB84G.png"/>
 </div>
 
 <!--
 
 <div>
+<img src="https://i.imgur.com/slImWDT.png"/>
+<img src="https://i.imgur.com/moyvqFc.png"/>
+
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </div>
