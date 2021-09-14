@@ -79,6 +79,6 @@ A software engineering student from Caracas Venezuela. 🇻🇪
  - [Pokedex](https://isaac152.github.io/pokedex/) : A simple pokedex made in Vanilla Javascript with CSS animations. Used for practice async and API calls in Javascript.
 
 ## Contact me
-<a href = ' https://twitter.com/isaac152'><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a><a href = '#'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = ' https://twitter.com/isaac152'><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a><a href = 'https://www.linkedin.com/in/isaac152/'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 Also you can send me a email at : isaacmgonzalezf@gmail.com
