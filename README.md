@@ -74,9 +74,12 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 
 ## **Projects:**
 
- - [Gura advice](https://gura-advice.herokuapp.com/) : Get a track of the movies, animes and series you want to watch or already watched. You can also share your lists with your friends to recommend your favorite media.
  -  [Curious bird bot](https://github.com/isaac152/curious_bird_bot):  A telegram bot (@curios_bird_bot) who gives you information about a random bird every time you ask. Also, you can play to guess the bird by sound or by a photo. All data was scraped from Ebird.
- - [Pokedex](https://isaac152.github.io/pokedex/) : A simple pokedex made in Vanilla Javascript with CSS animations. Used for practice async and API calls in Javascript.
+-  [Recipe Calculator Django](https://github.com/isaac152/recipe-calculator-Django):  Currently in development. Is a simple web app to track the cost of your recipes.
+ - [Habits Track API ](https://github.com/isaac152/APIHabitsTracker):  API made to simulate the android apps that track habits. Made in Flask.
+
+ - [Gura advice](https://gura-advice.herokuapp.com/) : Get a track of the movies, animes and series you want to watch or already watched. You can also share your lists with your friends to recommend your favorite media.
+- [Pokedex](https://isaac152.github.io/pokedex/) : A simple pokedex made in Vanilla Javascript with CSS animations. Used for practice async and API calls in Javascript.
 
 ## Contact me
 <a href = ' https://twitter.com/isaac152'><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a><a href = 'https://www.linkedin.com/in/isaac152/'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
