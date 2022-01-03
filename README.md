@@ -72,13 +72,12 @@ A software engineering from Caracas Venezuela. 🇻🇪
 -->
 
 ## **Projects:**
--[Prometeo telegram bot](https://github.com/isaac152/prometeo_test_telegram_bot): A telegram bot to use Prometeo API to check your accounts and your credit cards. Made in Python.
--[Star it](https://night-map.herokuapp.com/): A web app where you can generate and customize your own star map based on a specific date and location. Choose your location, add a date, change the color of the background or the map with the predetermined colors or add a specific one in hex to make the best combinations, choose the size of your preference and add a special message to make it memorable. Made with Django.
+ -  [Prometeo telegram bot](https://github.com/isaac152/prometeo_test_telegram_bot): A telegram bot to use Prometeo API to check your accounts and your credit cards. Made in Python.
+ -  [Star it](https://night-map.herokuapp.com/): A web app where you can generate and customize your own star map based on a specific date and location. Also, you can change the color and add a title and description.Made with Django.
  -  [Curious bird bot](https://github.com/isaac152/curious_bird_bot):  A telegram bot (@curios_bird_bot) who gives you information about a random bird every time you ask. Also, you can play to guess the bird by sound or by a photo. All data was scraped from Ebird.
--  [Recipe Calculator Django](https://github.com/isaac152/recipe-calculator-Django):  Is a simple web app to track the cost of your recipes.
  - [Habits Track API ](https://github.com/isaac152/APIHabitsTracker):  API made to simulate the android apps that track habits. Made in Flask and MongoDb.
  - [Gura advice](https://gura-advice.herokuapp.com/) : Get a track of the movies, animes and series you want to watch or already watched. You can also share your lists with your friends to recommend your favorite media.
-- [Pokedex](https://isaac152.github.io/pokedex/) : A simple pokedex made in Vanilla Javascript with CSS animations. Used for practice async and API calls in Javascript.
+
 
 ## Contact me
 <a href = ' https://twitter.com/isaac152'><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a><a href = 'https://www.linkedin.com/in/isaac152/'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
