@@ -11,65 +11,21 @@ A software engineering from Caracas Venezuela. 🇻🇪
 
 ## **Languages and Tools :**
 
-<div>
-<img src="https://i.imgur.com/EinrytZ.png"/>
-<img src="https://i.imgur.com/2eaiPIw.png"/>
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div>
-<img src="https://i.imgur.com/mOkibVI.png"/>
-<img src="https://i.imgur.com/HzJcoG3.png"/>
-<img src="https://i.imgur.com/dOtIOy6.png"/>
-<img src="https://i.imgur.com/OzgfDUi.png"/>
-</div>
-
-<div> 
-<img src="https://i.imgur.com/JBSC9XR.png"/>
-<img src="https://i.imgur.com/bvxJDZH.png"/>
-<img src="https://i.imgur.com/9MFL33F.png"/>
-</div>
-
- 
 **Learning:**
 
-<div>
-<img src="https://i.imgur.com/BDa3I0m.png"/>
-<img src="https://i.imgur.com/Mfosbky.png"/>
-<img src="https://i.imgur.com/CMHB84G.png"/>
-</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--
 
-<div>
-<img src="https://i.imgur.com/slImWDT.png"/>
-<img src="https://i.imgur.com/moyvqFc.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-</div>
-
-<div>
-<img  style="background-color:white;" src="https://img.icons8.com/color/48/000000/flask.png"/>
-<img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-</div>
-
-<div> 
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/ios-filled/48/000000/console.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-</div>
-
- 
-**Learning:**
-
-<div>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</div>
--->
 
 ## **Projects:**
  -  [Prometeo telegram bot](https://github.com/isaac152/prometeo_test_telegram_bot): A telegram bot to use Prometeo API to check your accounts and your credit cards. Made in Python.
@@ -80,6 +36,8 @@ A software engineering from Caracas Venezuela. 🇻🇪
 
 
 ## Contact me
-<a href = ' https://twitter.com/isaac152'><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a><a href = 'https://www.linkedin.com/in/isaac152/'><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = ' https://twitter.com/isaac152'> ![Twitter](https://img.shields.io/badge/isaac152-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
+<a href = 'https://www.linkedin.com/in/isaac152/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
 
 Also you can send me a email at : isaacmgonzalezf@gmail.com
