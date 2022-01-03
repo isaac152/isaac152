@@ -1,10 +1,9 @@
 # Hi ! I am Isaac 🐧
-A software engineering student from Caracas Venezuela. 🇻🇪
+A software engineering from Caracas Venezuela. 🇻🇪
 
 ## **About me :**
 
- - Currently studying for a degree in computer science. 
- - Open to internships or a full-time oportunity. 
+ - Open to full-time oportunity. 
  - Aspiring to become a bioinformatic in the future.
  - I really love to learn new things
  - My interest are backend development, scraping, data analysis, and machine learning.
@@ -73,11 +72,11 @@ A software engineering student from Caracas Venezuela. 🇻🇪
 -->
 
 ## **Projects:**
-
+-[Prometeo telegram bot](https://github.com/isaac152/prometeo_test_telegram_bot): A telegram bot to use Prometeo API to check your accounts and your credit cards. Made in Python.
+-[Star it](https://night-map.herokuapp.com/): A web app where you can generate and customize your own star map based on a specific date and location. Choose your location, add a date, change the color of the background or the map with the predetermined colors or add a specific one in hex to make the best combinations, choose the size of your preference and add a special message to make it memorable. Made with Django.
  -  [Curious bird bot](https://github.com/isaac152/curious_bird_bot):  A telegram bot (@curios_bird_bot) who gives you information about a random bird every time you ask. Also, you can play to guess the bird by sound or by a photo. All data was scraped from Ebird.
--  [Recipe Calculator Django](https://github.com/isaac152/recipe-calculator-Django):  Currently in development. Is a simple web app to track the cost of your recipes.
- - [Habits Track API ](https://github.com/isaac152/APIHabitsTracker):  API made to simulate the android apps that track habits. Made in Flask.
-
+-  [Recipe Calculator Django](https://github.com/isaac152/recipe-calculator-Django):  Is a simple web app to track the cost of your recipes.
+ - [Habits Track API ](https://github.com/isaac152/APIHabitsTracker):  API made to simulate the android apps that track habits. Made in Flask and MongoDb.
  - [Gura advice](https://gura-advice.herokuapp.com/) : Get a track of the movies, animes and series you want to watch or already watched. You can also share your lists with your friends to recommend your favorite media.
 - [Pokedex](https://isaac152.github.io/pokedex/) : A simple pokedex made in Vanilla Javascript with CSS animations. Used for practice async and API calls in Javascript.
 
