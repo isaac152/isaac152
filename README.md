@@ -32,10 +32,11 @@ A software engineering from Caracas Venezuela. 🇻🇪
 
 ## **Projects:**
  -  [Prometeo telegram bot](https://github.com/isaac152/prometeo_test_telegram_bot): A telegram bot to use Prometeo API to check your accounts and your credit cards. Made in Python.
- -  [Star it](https://night-map.herokuapp.com/): A web app where you can generate and customize your own star map based on a specific date and location. Also, you can change the color and add a title and description.Made with Django.
+ -  [Star it](https://stellarmap.xyz/): A web app where you can generate and customize your own star map based on a specific date and location. Also, you can change the color and add a title and description.Made with Django.
+ -  [Penpick](http://penpick.xyz/): Penpick is a web app to create Spotify playlists based on an artist or band you like using IA.
  -  [Curious bird bot](https://github.com/isaac152/curious_bird_bot):  A telegram bot (@curios_bird_bot) who gives you information about a random bird every time you ask. Also, you can play to guess the bird by sound or by a photo. All data was scraped from Ebird.
  - [Habits Track API ](https://github.com/isaac152/APIHabitsTracker):  API made to simulate the android apps that track habits. Made in Flask and MongoDb.
- - [Gura advice](https://gura-advice.herokuapp.com/) : Get a track of the movies, animes and series you want to watch or already watched. You can also share your lists with your friends to recommend your favorite media.
+
 
 
 ## Contact me
