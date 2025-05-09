@@ -40,7 +40,7 @@ A software engineering from Caracas Venezuela. 🇻🇪
 
 
 ## Contact me
-<a href = ' https://twitter.com/ispendev'> ![Twitter](https://img.shields.io/badge/isaac152-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
+<a href = 'https://twitter.com/ispendev'> ![Twitter](https://img.shields.io/badge/isaac152-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href = 'https://www.linkedin.com/in/isaac152/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
